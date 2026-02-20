@@ -1,1 +1,2 @@
-"Proyecto de pr ctica - Introducci¢n a la Ingenier¡a de Software"
+"Proyecto de prÂ ctica - IntroducciÂ¢n a la IngenierÂ¡a de Software"
+"SincronizaciÃ³n de git pull"
